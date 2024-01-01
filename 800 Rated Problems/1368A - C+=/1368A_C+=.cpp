@@ -31,3 +31,5 @@ int main(){
         std::cout << count << std::endl;
     }
 }
+
+// Basically make a fibonacci sequence and check if it is greater than n
