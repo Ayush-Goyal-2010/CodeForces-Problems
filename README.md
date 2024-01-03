@@ -19,3 +19,7 @@ Here is the timeline, where I try to solve one problem a day (minimum):-
 
 * Day - 5 (02/01/2024)
   * 1691A - Beat The Odds (Rated 800)
+
+* Day - 6 (03/01/2024)
+  * 1709A - Three Doors (Rated 800)
+  * Solved Problems A, B, C In CodeChef Starters 115 
